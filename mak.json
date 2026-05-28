@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "prfInfo": "48d0e95d-e28f-4cec-8bba-96bb067fd4e7",
+  "wrap": {
+    "iv": "dTR2smttBOewGPZV",
+    "ciphertext": "G9m9N3myefebYEb5x6uVBAtpg9MeBOkGTX7my9U8SiBTXM+34q3e3hc1EE5pQkDL"
+  },
+  "data": {
+    "iv": "hQBWHk9xI55AHWB2",
+    "ciphertext": "AKofKdsPr0PYLmHxkcOaKSIPvtZoyX6bJU1t8yvMigZXvkVuWvL1sf1u/zwrgUJ6"
+  }
+}
