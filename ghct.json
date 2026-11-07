@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "createdAt": "2026-11-07T20:37:27.950Z",
+  "prfInfo": "48d0e95d-e28f-4cec-8bba-96bb067fd4e7",
+  "wrap": {
+    "iv": "FqbgMPSR/lAjKi3h",
+    "ciphertext": "w17NWGTcUkeyN5XuntkA3AkLeWJ/RGc2dmA+ZgYxNT1pgijhChsX5EV7RXgP94BG"
+  },
+  "data": {
+    "iv": "GEF4KAaOrTZ05VoY",
+    "ciphertext": "NZbxmqLfNSveSYa+4FXXMo+N3ViMWqFOml+qEsRzTf9svvIAGw7lbULFulUzrt/MIYeMtiVEvEk="
+  }
+}
